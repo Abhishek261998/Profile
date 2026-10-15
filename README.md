@@ -40,7 +40,6 @@ I love transforming complex problems into simple, data-driven solutions.
 - Data-Driven Strategy
 - Stakeholder Communication
 
----
 
 ## 📊 What I Do
 
@@ -50,7 +49,6 @@ I love transforming complex problems into simple, data-driven solutions.
 ✔ Build automation tools using Python  
 ✔ Help organizations make smarter decisions using data  
 
----
 
 ## 🌱 Currently Exploring
 
@@ -59,7 +57,6 @@ I love transforming complex problems into simple, data-driven solutions.
 - Scalable System Design
 - Cloud Integration
 
----
 
 ## 📂 Featured Projects
 
@@ -70,14 +67,13 @@ I love transforming complex problems into simple, data-driven solutions.
 - 🔹 Python Automation Toolkit  
 - 🔹 Full Stack Web Application  
 
----
 
 ## 📫 Connect With Me
 
 - 💼 Company: ALL BITS SOLUTIONS PRIVATE LIMITED  
 - 📧 Email: abhiabhi19981998@gmail.com
-- 💼 LinkedIn: (Add your LinkedIn link)  
-- 🌐 Portfolio: (Add your portfolio link)
+- 💼 LinkedIn: (linkedin.com/in/abhishek-sharma-35a6013ab)  
+- 🌐 Portfolio: (abhisheksharma26.netlify.app)
 
 ---
 
