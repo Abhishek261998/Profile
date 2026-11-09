@@ -59,10 +59,8 @@ I love transforming complex problems into simple, data-driven solutions.
 
 
 ## 📂 Featured Projects
-
-> *(You can replace these with your actual project links)*
-
-- 🔹 Data Analytics Dashboard – Power BI  
+- 🔹 RetailPulse — Sales & Business Performance Analytics
+- 🔹 Data Analytics Dashboard – Power BI
 - 🔹 Business Performance Analysis System  
 - 🔹 Python Automation Toolkit  
 - 🔹 Full Stack Web Application  
